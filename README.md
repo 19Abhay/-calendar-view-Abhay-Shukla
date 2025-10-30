@@ -45,6 +45,7 @@ Interactiveve Playground - Fully functional with controls
 ## Technologies
 
 React + TypeScript
+Nextjs
 Tailwind CSS
 Storybook
 
